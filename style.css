@@ -1,0 +1,45 @@
+
+body {
+  margin: 0;
+  background-color: #80aaff;
+  text-align: center;
+  }
+h1{
+  color:white;
+  text-align: center;
+  margin-top: 100px;
+}
+footer{
+  background-color: gray;
+  padding: 20px 10px;
+  text-align: center;
+  position:fixed;
+    bottom:0;
+    width:100%;
+}
+  #menu ul {
+    margin:0;
+    background-color: #ff9933;
+    list-style: none;
+    text-align: right;
+  }
+
+  #menu ul li {
+    display: inline;
+  } 
+
+  #menu ul li a {
+    padding: 20px 10px;
+    display:inline-block;
+    color: white;
+    text-decoration: none;
+  }
+
+  #menu ul li a:hover{
+    color: black;
+  }
+
+  #image{
+    height: 250px;
+    width: 250px;
+  }
